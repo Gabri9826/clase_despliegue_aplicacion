@@ -1,0 +1,2 @@
+version 1 de la clase de git para despliegue de aplicaciones.
+para los esrudianytes que quieren aprender a usar git.
